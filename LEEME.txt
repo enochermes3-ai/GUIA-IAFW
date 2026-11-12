@@ -1,0 +1,8 @@
+GUIA IA - Proyecto Android
+1. Sube el contenido de esta carpeta a un repositorio nuevo de GitHub (incluida .github).
+2. Pestana Actions: se compila sola en unos minutos.
+3. Descarga el artefacto GuiaIA-apk, descomprimelo e instala app-debug.apk.
+
+Herramientas (101): app/src/main/assets/herramientas.txt
+  una por linea: categoria|nombre|plan|precio|puntos separados por ;;|ideal para|enlace|perfil
+Comparativa, perfiles y leyenda: app/src/main/java/com/guiaia/app/Contenido.java
